@@ -1,0 +1,13 @@
+C:\NerdStore\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.deps.json
+C:\NerdStore\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.dll
+C:\NerdStore\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.pdb
+C:\NerdStore\src\EventSourcing\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\NerdStore\src\EventSourcing\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.AssemblyReference.cache
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfoInputs.cache
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfo.cs
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CoreCompileInputs.cache
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CopyComplete
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.dll
+C:\NerdStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.pdb
